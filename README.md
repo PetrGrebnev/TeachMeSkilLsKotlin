@@ -1,1 +1,1 @@
-# TeachMeSkilsKotlin
+# TeachMeSkillsKotlin
